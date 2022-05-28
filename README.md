@@ -1,1 +1,1 @@
-👋 Hello! I’m @alisaowens, a newbie developer and Automattician. I've studied Javascript, PHP, Python, and general frontend development (HTML/CSS) on my own and am now interested in contributing to open source projects. 
+👋 Hello! I’m @alisaowens, a newbie developer and Automattician. I've studied JavaScript, PHP, Python, and general frontend development (HTML/CSS) on my own and am now interested in contributing to open source projects. 
